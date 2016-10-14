@@ -1,0 +1,41 @@
+body {font-family: 'open sans', sans-serif;
+		background: url("../img/pntE89.jpg");
+}
+
+header {background-color: #ddc549;
+	overflow: hidden;
+	font-family: 'montserrat'
+
+}
+
+header h1 {font-family: 'Montserrat', sans-serif; float: left;}
+
+header h1 a {
+	
+}
+
+header nav {
+	float: right;
+}
+header nav ul {
+	margin: 0;
+	padding: 30px;
+}
+header nav ul li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+}
+header nav ul li a {
+	padding: 10px;
+}
+#intro{}
+
+#intro h2{
+
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff
+}
